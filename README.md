@@ -7,8 +7,14 @@ This repository contains Verilog HDL codes developed as part of the EE342 Digita
 - **Language:** Verilog HDL  
 - **Development Environment:** Intel Quartus II
 
-## Description
-The repository includes various design files, testbenches, and simulation outputs created during the course assignments and projects.
+## Contents
+The repository includes lab assignments such as:
+- Module instantiation
+- BCD counter
+- Switch debouncing
+- Serial transmitter & receiver (2-line)
+- Finite state machine (FSM)
+- Bidirectional data transfer
 
 Special thanks to the EE342 course instructors and teaching assistants.
 
